@@ -1,6 +1,6 @@
 ## Caesar Cipher
 
-Program to generate Caesar Cipher.       
+Program to generate **Caesar Cipher**.       
 A Caesar cipher is a simple method of encoding messages.          
 Caesar ciphers use a substitution method where letters in the alphabet are shifted by some fixed number.     
 A Caesar cipher with a shift of 1 would encode an A as a B, an M as an N, and a Z as an A.      
